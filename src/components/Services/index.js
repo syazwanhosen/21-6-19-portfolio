@@ -17,7 +17,7 @@ function Services() {
   return (
     <section className='services section' id='services'>
       <h2 className='section__title'>Services</h2>
-      <span className='section__subtitle'>What i offer</span>
+      <span className='section__subtitle'>What I offer</span>
 
       <div className='services__container container grid'>
         {/* <!--=============== SERVICES 1 ===============--> */}
@@ -54,19 +54,19 @@ function Services() {
               <ul className='services__modal-services grid'>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I develop the user interface.</p>
+                  <p>Designing user flows, wireframes and mockups.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>Web page development.</p>
+                  <p>Creating original graphic designs.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I create ux element interactions.</p>
+                  <p>Creating ux element interactions.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I position your company brand.</p>
+                  <p>Developing the user interface.</p>
                 </li>
               </ul>
             </div>
@@ -108,7 +108,7 @@ function Services() {
               <ul className='services__modal-services grid'>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I develop the user interface.</p>
+                  <p>Following SEO best practices.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
@@ -116,11 +116,11 @@ function Services() {
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I create ux element interactions.</p>
+                  <p>Managing software workflow.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I position your company brand.</p>
+                  <p>Fixing bugs and testing for usability.</p>
                 </li>
               </ul>
             </div>
@@ -162,19 +162,19 @@ function Services() {
               <ul className='services__modal-services grid'>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I develop the user interface.</p>
+                  <p>Designing your company brand.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>Web page development.</p>
+                  <p>Contributing to successful new business.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I create ux element interactions.</p>
+                  <p>Briefing and overseeing production.</p>
                 </li>
                 <li className='services__modal-service'>
                   <i className='uil uil-check-circle services__modal-icon'></i>
-                  <p>I position your company brand.</p>
+                  <p>Implementing the creative execution.</p>
                 </li>
               </ul>
             </div>
