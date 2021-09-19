@@ -1,5 +1,5 @@
 import avatar from '../../assets/img/avatar.png';
-import resume from '../../assets/pdf/Buang_Hosen_Resume.pdf';
+import resume from '../../assets/pdf/Muhammad_Syazwan_Hosen_Resume.pdf';
 
 function About() {
   return (
