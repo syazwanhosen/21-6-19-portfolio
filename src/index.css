@@ -359,6 +359,10 @@ img {
   background-color: var(--first-color-alt);
 }
 
+.button:disabled {
+  background-color: var(--first-color-lighter);
+}
+
 .button__icon {
   font-size: 1.25rem;
   margin-left: var(--mb-0-5);
