@@ -76,7 +76,7 @@ function Qualification() {
 
                 <div>
                   <h3 className='qualification__title'>
-                    Bachelor of Information Technology
+                    Bachelor of Computer Science
                   </h3>
                   <span className='qualification__subtitle'>
                     International Islamic University Malaysia
