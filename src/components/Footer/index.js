@@ -57,7 +57,7 @@ function Footer() {
         </div>
 
         <p className='footer__copy'>
-          Copyright &#169; 2021 Syazwan. Made with ❤️ in Malaysia
+          Copyright &#169; 2022 Syazwan. Made with ❤️ in Malaysia
         </p>
       </div>
     </footer>

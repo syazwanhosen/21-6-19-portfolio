@@ -1,5 +1,5 @@
-import avatar from '../../assets/img/avatar.png';
-import resume from '../../assets/pdf/Muhammad_Syazwan_Hosen_Resume.pdf';
+import avatar from "../../assets/img/avatar.png";
+import resume from "../../assets/pdf/Muhammad_Syazwan_Hosen_Resume.pdf";
 
 function About() {
   return (
@@ -8,7 +8,12 @@ function About() {
       <span className='section__subtitle'>My introduction</span>
 
       <div className='about__container container grid'>
-        <img src={avatar} alt='' className='about__img' />
+        <img
+          src={avatar}
+          alt=''
+          className='about__img'
+          style={{ width: "100%" }}
+        />
 
         <div className='about__data'>
           <p className='about__description'>
