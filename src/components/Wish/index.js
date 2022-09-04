@@ -1,5 +1,3 @@
-import poster from "../../assets/img/poster.jpeg";
-
 function Wish() {
   return (
     <section className='skills section' id='skills'>

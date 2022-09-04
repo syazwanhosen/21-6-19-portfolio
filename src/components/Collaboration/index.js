@@ -1,4 +1,4 @@
-import poster from "../../assets/img/poster.jpeg";
+import poster from "../../assets/img/poster.png";
 
 function Collaboration() {
   return (
