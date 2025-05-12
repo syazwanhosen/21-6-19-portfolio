@@ -23,7 +23,7 @@ function Skills() {
 
               <div>
                 <h1 className='skills__title'>Frontend developer</h1>
-                <span className='skills__subtitle'>More than 2 years</span>
+                <span className='skills__subtitle'>More than 5 years</span>
               </div>
 
               <i className='uil uil-angle-down skills__arrow'></i>
@@ -81,7 +81,7 @@ function Skills() {
 
               <div>
                 <h1 className='skills__title'>Backend developer</h1>
-                <span className='skills__subtitle'>More than 2 years</span>
+                <span className='skills__subtitle'>More than 5 years</span>
               </div>
 
               <i className='uil uil-angle-down skills__arrow'></i>
@@ -141,7 +141,7 @@ function Skills() {
 
               <div>
                 <h1 className='skills__title'>Designer</h1>
-                <span className='skills__subtitle'>More than 2 years</span>
+                <span className='skills__subtitle'>More than 5 years</span>
               </div>
 
               <i className='uil uil-angle-down skills__arrow'></i>

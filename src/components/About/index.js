@@ -24,7 +24,7 @@ function About() {
 
           <div className='about__info'>
             <div>
-              <span className='about__info-title'>02+</span>
+              <span className='about__info-title'>05+</span>
               <span className='about__info-name'>
                 Years <br />
                 experience
@@ -32,7 +32,7 @@ function About() {
             </div>
 
             <div>
-              <span className='about__info-title'>02+</span>
+              <span className='about__info-title'>05+</span>
               <span className='about__info-name'>
                 Completed <br />
                 projects
@@ -40,7 +40,7 @@ function About() {
             </div>
 
             <div>
-              <span className='about__info-title'>02+</span>
+              <span className='about__info-title'>05+</span>
               <span className='about__info-name'>
                 Companies <br />
                 worked

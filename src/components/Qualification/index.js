@@ -14,9 +14,8 @@ function Qualification() {
       <div className='qualification__container container'>
         <div className='qualification__tabs'>
           <div
-            className={`qualification__button button--flex ${
-              isActive && 'qualification__active'
-            }`}
+            className={`qualification__button button--flex ${isActive && 'qualification__active'
+              }`}
             data-target='#education'
             onClick={handleToggle1}
           >
@@ -25,9 +24,8 @@ function Qualification() {
           </div>
 
           <div
-            className={`qualification__button button--flex ${
-              !isActive && 'qualification__active'
-            }`}
+            className={`qualification__button button--flex ${!isActive && 'qualification__active'
+              }`}
             data-target='#work'
             onClick={handleToggle2}
           >
@@ -76,14 +74,14 @@ function Qualification() {
 
                 <div>
                   <h3 className='qualification__title'>
-                    Bachelor of Computer Science
+                    Bachelor of Information Technology
                   </h3>
                   <span className='qualification__subtitle'>
                     International Islamic University Malaysia
                   </span>
                   <div className='qualification__calendar'>
                     <i className='uil uil-calendar-alt'></i>
-                    2021 - Now
+                    2021 - 2025
                   </div>
                 </div>
               </div>
@@ -91,9 +89,8 @@ function Qualification() {
           ) : (
             // {/* <!--=============== QUALIFICATION CONTENT 2 ===============--> */}
             <div
-              className={`qualification__content ${
-                !isActive && 'qualification__active'
-              }`}
+              className={`qualification__content ${!isActive && 'qualification__active'
+                }`}
               data-content
               id='work'
             >
@@ -129,11 +126,30 @@ function Qualification() {
 
                 <div>
                   <h3 className='qualification__title'>ReactJS Developer</h3>
-                  <span className='qualification__subtitle'>Collabera Inc</span>
+                  <span className='qualification__subtitle'>Digital Collabera</span>
                   <div className='qualification__calendar'>
                     <i className='uil uil-calendar-alt'></i>
-                    2021-Now
+                    2021-2023
                   </div>
+                </div>
+              </div>
+              <div className='qualification__data'>
+                <div>
+                  <h3 className='qualification__title'>
+                    Frontend Developer
+                  </h3>
+                  <span className='qualification__subtitle'>
+                    Skill Quotient
+                  </span>
+                  <div className='qualification__calendar'>
+                    <i className='uil uil-calendar-alt'></i>
+                    2023-Now
+                  </div>
+                </div>
+
+                <div>
+                  <span className='qualification__rounder'></span>
+                  <span className='qualification__line'></span>
                 </div>
               </div>
             </div>
